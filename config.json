@@ -1,0 +1,35 @@
+{
+  "defaultPrefix": "N!",
+  "reactionSuccess": "✔️",
+  "reactionError": "❌",
+  "deletionTimeout": 10000,
+  "staffEmojiId": "👮",
+  "infoEmojiId": "ℹ️",
+  "loggingEmojiId": "🔖",
+  "welcomeEmojiId": "🎍",
+  "funEmojiId": "😂",
+  "debugEmojiId": "📶",
+  "pinEmojiId": "📌",
+  "suggestionChId": "738921423439003651",
+  "bugChId": "738921423439003653",
+  "deafultWelcomeMsg": "Mohon [member] Tetaplah stay disini terus ya kak!",
+  "defaultLeaveMsg": "[user] telah berpisah dengan kami...",
+
+  "suggestionPending": {
+    "color": "#ffff00",
+    "statusTitle": "Suggestion Pending",
+    "status": "This suggestion is currently awaiting review, please be patient."
+  },
+  "suggestionAccepted": {
+    "color": "#008000",
+    "statusTitle": "Suggestion Accepted",
+    "status": "This suggestion has been accepted and is soon to be implemented!"
+  },
+  "suggestionDeclined": {
+    "color": "#ff0000",
+    "statusTitle": "Suggestion Declined",
+    "status": "Thanks for your interest, but we currently don't need this feature."
+  },
+  "suggestionApprove": "👍",
+  "suggestionDecline": "👎"
+}
